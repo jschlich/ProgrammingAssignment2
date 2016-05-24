@@ -1,6 +1,6 @@
 ##      These functions cache the inverse of a matrix.
 ##
-##      The first function, "makeCacheMatrix," creates a special "matrix", which is really a list containing 
+##      The first function, "makeCacheMatrix," creates a special "matrix", which is really a matix containing 
 ##      a function to:
 ##
 ##              Set the value of the matrix
